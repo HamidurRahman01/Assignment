@@ -1,0 +1,47 @@
+.colour{
+    color: orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.link-button{
+     text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+     border-radius: 20px;
+     padding: 10px 40px;
+     font-size: 20px;
+}
+section{
+    display: flex;
+}
+.hamid{
+width: 50%;
+}
+.mamun{
+    background-image: url(food-network-main/images/shapes/Group\ 8449.png);
+   background-size: cover;
+
+   
+}
+.mamun2{
+    text-align: center;
+}
+.mamun3{
+    width: 50%;
+   text-align: center;
+   margin-left: 25%;
+}
+.jule{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.jule2{
+    width: 90%;
+    height: 250px;
+    border-radius: 10px;
+}
